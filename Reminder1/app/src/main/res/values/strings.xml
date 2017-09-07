@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reminder Star</string>
+    <string name="addANewMessage">Add a new message</string>
+    <string name="updateAMessage">Update successfully</string>
+    <string name="deleteAMessage">Delete a message</string>
+    <string name="errorMessage">Some errors happen</string>
+    <string name="newMessage">Message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

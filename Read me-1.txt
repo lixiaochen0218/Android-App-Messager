@@ -1,0 +1,8 @@
+Hello,
+
+This is my first assignemnt for this course, I design an application that user can add message in this reminder
+
+The reason why I want to design this application is that I want have a messager that can rate the message, so I design this application with rating star that user can select star from one to five to rate message.
+ 
+Cheers,
+Xiaochen
